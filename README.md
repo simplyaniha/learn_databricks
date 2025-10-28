@@ -1,3 +1,18 @@
+
+```python
+# Add a new field 'address' to the schema
+new_data = [
+    {"name": "Jane Smith", "email": "jane.smith@email.com", "phone": "123-456-7890", "address": "123 Main St"},
+    {"name": "John Doe", "email": "johndoe@email.com", "phone": "234-567-8900", "address": "456 Oak Ave"}
+]
+
+new_df = spark.createDataFrame(new_data)
+new_df.write.format("delta").mode("append").option("mergeSchema", "true").save("/path/to/delta_table")
+
+
+
+```
+
 # Databricks Training
 
 ---
@@ -20,3 +35,4 @@
 <div align="center">
 Made with ❤️ by Nikhil Sharma
 </div>
+
