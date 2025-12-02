@@ -18,4 +18,36 @@ SELECT *
 FROM STREAM read_files(
   '/Volumes/ldb-cat001/rag/rag-pdfs',
   format => 'binaryFile'
+
 );
+
+dbadmin2
+dbadmin2@simplyaniha2gmail.onmicrosoft.com
+dbadmin##1234
+
+/subscriptions/c70b181d-2f49-4ee8-8370-d28947fe0240/resourceGroups/databricks-rg-ldb-ws001-wqdggrbpeu7mq/providers/Microsoft.Databricks/accessConnectors/unity-catalog-access-connector
+
+
+db_token
+dapid6d51358c5ed78b84f94a9ec53a84802-3
+
+databricks-gte-large-en
+
+———————
+How to setup CICD pipeline
+https://docs.google.com/document/d/1x7fi8jxmZWEka8Mw1UJutQFDhfcsxK0znmPfWlEgL5I/edit?pli=1&tab=t.0
+
+
+GitHub
+db cicd token
+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
+
+Github repository url
+https://github.com/simplyaniha/cicd-databricks-project2.git
+
+Dev ws
+Ws token
+dapid2b9bfdd3c9e07ff364ae0d6808b9345-3
+
+Prod ws token
+dapi270669aad288c228fca0e156d12808f6-3
