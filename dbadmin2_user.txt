@@ -1,0 +1,21 @@
+/subscriptions/c70b181d-2f49-4ee8-8370-d28947fe0240/resourceGroups/databricks-rg-ldb-ws001-wqdggrbpeu7mq/providers/Microsoft.Databricks/accessConnectors/unity-catalog-access-connector
+
+
+dbadmin2@simplyaniha2gmail.onmicrosoft.com
+dbadmin##1234
+
+P4 project
+serving end point 
+https://adb-2683853199245858.18.azuredatabricks.net/serving-endpoints/appliances-chat-model/invocations
+
+
+ldb-cat001`.`rag`.`docs_track`
+
+
+CREATE OR REFRESH STREAMING TABLE pdf_ingestion_log
+AS
+SELECT *
+FROM STREAM read_files(
+  '/Volumes/ldb-cat001/rag/rag-pdfs',
+  format => 'binaryFile'
+);
