@@ -51,3 +51,8 @@ dapid2b9bfdd3c9e07ff364ae0d6808b9345-3
 
 Prod ws token
 dapi270669aad288c228fca0e156d12808f6-3
+
+
+/Workspace/Users/dbadmin2@simplyaniha2gmail.onmicrosoft.com/dev-databricks-git-folder
+
+/Workspace/Users/dbadmin2@simplyaniha2gmail.onmicrosoft.com/prod-databricks-git-folder
