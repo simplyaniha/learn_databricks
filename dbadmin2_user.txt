@@ -44,6 +44,8 @@ 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
 
 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
 
+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
+
 Github repository url
 https://github.com/simplyaniha/cicd-databricks-project2.git
 
@@ -58,4 +60,5 @@ dapi270669aad288c228fca0e156d12808f6-3
 /Workspace/Users/dbadmin2@simplyaniha2gmail.onmicrosoft.com/dev-databricks-git-folder
 
 /Workspace/Users/dbadmin2@simplyaniha2gmail.onmicrosoft.com/prod-databricks-git-folder
+
 
